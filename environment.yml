@@ -1,4 +1,4 @@
-name: plural
+name: spacy-app
 channels:
   - anaconda
   - defaults
